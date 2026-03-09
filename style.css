@@ -437,7 +437,7 @@ body {
   justify-content: flex-start;
 }
 
-.card:hover {
+.cer-card:hover {
   transform: translateY(-8px);
   border-color: var(--accent);
   box-shadow: 0 0 40px rgba(56,189,248,0.15);
